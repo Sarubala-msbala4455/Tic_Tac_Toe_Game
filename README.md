@@ -15,5 +15,5 @@ This is a simple Tic Tac Toe game developed using HTML, CSS, and JavaScript. The
 - JavaScript
 
 
-Click Here to Play : <a href="https://sarubala-msbala4455.github.io/PRODIGY_WD_03/" >Tic-Tac-Toe</a>
+Click Here to Play : <a href="https://sarubala-msbala4455.github.io/Tic_Tac_Toe_Game/" >Tic-Tac-Toe</a>
 
